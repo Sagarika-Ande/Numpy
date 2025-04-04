@@ -1,0 +1,2 @@
+# Numpy
+parcticing numpy topics
